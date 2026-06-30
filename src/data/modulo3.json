@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "EL CLÁSICO: UN HIATO EN GUERRERO",
+    "texto": "Existe un gran\nvacío en el conocimiento de lo\nque ocurrió en Guerrero\ndurante el llamado Clásico\nTemprano (200 y 650 d.C.), tal\nvez por falta de investigación, o\nquizá por un fenómeno que\npropició que la producción\narquitectónica se suspendiera.\nUna posible explicación es que\nen ese lapso alcanzó su\napogeo una de las más grandes\nciudades\nen\nel\norbe:\nTeotihuacán, cuyo poder y\ndominio se extendió a territorio\nguerrerense absorbiendo sus\nrecursos y mano de obra.",
+    "imagenes": ["modulo3/1.png", "modulo3/2.png", "modulo3/3.png"],"audio":"1.mp3",
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "OBJETOS DE ESTILO TEOTIHUACANO EN GUERRERO",
+    "texto": "El objeto\nde\nestilo\nteotihuacano más extraordinario que\nprocede de Guerrero es la máscara\nencontrada cerca de Malinaltepec en la\nregión de La Montaña. Todavía\nconserva gran parte del mosaico de\namazonita y turquesa sobre el rostro,\nconcha nácar en los ojos y concha de\ncaracol rojo para formar las cejas y un\ndiseño serpentino sobre las mejillas.\nEn\nLa\nOrganera-\nXochipala se excavaron fragmentos de\nuna máscara de piedra verde, una\ncabecita de barro y restos de cerámica\nque indican contactos con Teotihuacán.\nYa que este sitio surgió después de la\ncaída de la magna urbe, es posible\ndeducir que fueron llevados como\nreliquias\nreliquias.\nInvestigaciones\nen\nproceso en la Costa Grande sugieren\nuna\nmayor\ninteracción\ncon\nTeotihuacán, pues gran parte de las\nvasijas de barro ahí localizadas imitan\nformas\ny\nacabados\nde\nestilo\nteotihuacano, como son los vasos y\ncajetes trípodes y los soportes de\nbraseros teatro.",
+    "imagenes": [
+      "modulo3/4.png",
+      "modulo3/5.png",
+      "modulo3/6.png",
+      "modulo3/7.png",
+      "modulo3/8.png"
+    ],"audio":"2.mp3",
+    "url":"www.google.com"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "titulo": "ÉPOCA DE CONTACTO",
+    "texto": "A la llegada de los españoles, Guerrero era un rico mosaico de pueblos y lenguas, reflejo de lo que fue en época prehispánica. Gracias a los documentos pictográficos, como los códices, lienzos y mapas, así como por los documentos puramente escritos, se sabe que entonces había entre 27 y 31 grupos étnicos distintos que hablaban diferentes lenguas. Aunque se conoce que el cuitlateco fue una de las lenguas más importantes ya desapareció, al igual que la mayoría, pues sólo han sobrevivido cuatro: el mixteco, el tlapaneco y el amuzgo en la región de La Montaña, y el náhuatl en varias partes de Guerrero. También por esos documentos se puede saber cómo vivían, qué productos cultivaban, cómo vestían y que herramientas y artesanías fabricaban, cómo eran sus casas, cómo se organizaban socialmente y cuál era su forma de gobierno, qué dioses veneraban y cuál era el territorio que ocupaban. Es de resaltar que un mismo grupo étnico-lingüístico no necesariamente ocupaba un territorio continuo, sino que estaba \"entreverado\" con otros, a manera de pequeñas islas.",
+    "imagenes": [
+      "modulo6/1.png"
+    ],"audio":"1.mp3",
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "CONTINUIDAD CULTURAL",
+    "texto": "Los actuales pueblos indígenas de Guerrero conservan costumbres y tradiciones heredadas de época prehispánica, como en sus rituales agrícolas y los dedicados para investir a sus autoridades comunales. En estos rituales se utilizan los \"manojos contados\" y los \"paquetes\" o \"bultos sagrados\", en los que frecuentemente se colocan esculturas prehispánicas o \"San Marquitos\", y los tamales elaborados con amaranto, que figuran deidades y cerros, todos ellos representados en códices y ligados con la fertilidad, la lluvia y la agricultura. Otro elemento de relación se da entre el jaguar, que se podría remontar a la época olmeca, y los rituales y danzas dedicados igualmente a propiciar la fertilidad y la agricultura. Estudios recientes señalan también el gran parecido entre las ofrendas sacrificiales registradas arqueológicamente en el Templo Mayor de Tenochtitlan y las de grupos indígenas contemporáneos de Guerrero, que se asemejan tanto en los materiales usados como en la secuencia al colocar sus ofrendas. En ambos casos se distinguen tres niveles: el inframundo o \"asiento\", el terrestre y el celeste.",
+    "imagenes": [
+      "modulo6/2.png",
+      "modulo6/3.png",
+      "modulo6/4.png",
+      "modulo6/5.png",
+      "modulo6/6.png",
+      "modulo6/7.png"
+    ],"audio":"2.mp3",
+    "url":"www.google.com"
+  }
+  
+]

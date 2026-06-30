@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "EL POSCLÁSICO (GENERALIDADES Y TARDÍO INICIO)",
+    "texto": "Al periodo que comprende los últimos 500 años previos de la llegada de los españoles se le conoce como Posclásico. La parte temprana del Posclásico en Guerrero se sitúa antes de la conquista mexica, es decir antes de 1400 d. C. Por falta de investigación se conocen pocos sitios arqueológicos que pertenezcan con seguridad a este periodo.\n\nEl Posclásico Tardío (1400-1521 d. C.) se conoce más por las fuentes escritas del siglo XVI y posteriores que por los trabajos arqueológicos. Entre los sitios que se atribuyen a este periodo está Ixcateopan, un asentamiento con claras relaciones con el grupo mexica, y otros que sobresalen porque fueron utilizados como fortalezas por los mexicas al enfrentarse con los ejércitos tarascos, como el de Oztuma, ubicado en la cúspide de la montaña del mismo nombre en el actual municipio de Teloloapan, que cuenta con una serie de fosos y murallas que lo rodean para facilitar su defensa.",
+    "imagenes": [
+      "modulo5/1.png"
+    ],"audio":"1.mp3"
+    ,
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "EL POSCLÁSICO TEMPRANO",
+    "texto": "El Posclásico Temprano (900/1000-1400 d.C.) es una etapa aún poco conocida. Al iniciar este periodo la mayoría de los sitios de la región Mezcala con arquitectura monumental fueron abandonados, quizá por la entrada de grupos ajenos a la región, como se deduce por la presencia de cerámicas pintadas, llamadas genéricamente \"matlatzincas\" o \"tlahuicas\", que conviven con las locales, entre las que destaca la \"Yestla Naranjo\". También hay algunos monumentos labrados de la Tierra Caliente que se podrían atribuir a este periodo, como la estela de La Palmita en Ajuchitlán. Algunos de los sitios que probablemente fueron habitados durante el Posclásico Temprano son: Pezuapa, localizado en Chilpancingo, Los Tepoltzis, cerca de Tixtla, Huamuxtitlán y Texmelincan, en La Montaña, y otros localizados en la Tierra Caliente.",
+    "imagenes": [
+      "modulo5/2.png",
+      "modulo5/3.png",
+      "modulo5/4.png",
+      "modulo5/5.png"
+    ],"audio":"2.mp3"
+    ,
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "EL POSCLÁSICO TARDÍO. LA CONQUISTA MEXICA",
+    "texto": "Por los escritos del siglo XVI se sabe que en poco más de 100 años las incursiones mexicas lograron someter todo el territorio guerrerense, a excepción de la zona Yope y gran parte de la cuenca del Balsas Medio, a la que se designó como la \"tierra de nadie\", la que amortiguaba el impacto del otro poderoso reino de esos tiempos, el tarasco. La conquista mexica inició después de 1400 d. C., cuando gobernaba Izcóatl en su capital, México-Tenochtitlan, y continuó hasta 1520 d. C. cuando lo hacía Moctezuma Xocoyotzin. A Cuauhtémoc, su último gobernante o \"Tlatoani\" lo sorprendió la Conquista española.",
+    "imagenes": [
+      "modulo5/6.png",
+      "modulo5/7.png",
+      "modulo5/8.png"
+    ],"audio":"3.mp3",
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "EL TRIBUTO GUERRERENSE",
+    "texto": "Por la Matrícula de Tributos y otras fuentes se sabe que los mexicas estaban sumamente interesados en ciertos productos manufacturados en Guerrero, como las mantas de algodón, los trajes para guerreros y sus escudos, los sartales de cuentas de piedra verde y los adornos y laminillas de cobre y oro, así como en sus recursos naturales y cultivados: el maíz, el cacao, la miel y la cera, el algodón, el copal y las conchas y caracoles, los que periódicamente tributaban controlados tierra adentro por la Provincia de Tepecoacuilco, y en la costa por la de Cihuatlán. Las máscaras, cabezas y figurillas de estilo Mezcala escasamente aparecen en las listas de tributos por lo que se supone fueron saqueadas por las huestes mexicas para tributarlas en su templo principal, el Templo Mayor de Tenochtitlan, donde se han excavado más de 400 de ellas.",
+    "imagenes": [
+      "modulo5/9.png",
+      "modulo5/10.png",
+      "modulo5/11.png",
+      "modulo5/12.png"
+    ],"audio":"4.mp3",
+    "url":"www.google.com"
+  }
+]

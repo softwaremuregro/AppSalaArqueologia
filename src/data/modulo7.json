@@ -1,0 +1,202 @@
+[
+  {
+    "id":"m7item-1",
+    "titulo": "DESARROLLOS LOCALES",
+    "texto": "En las diferentes regiones de Guerrero se han localizado hasta ahora cerca de 3000 sitios arqueológicos; unos cuantos han sido investigados, pero otros sólo los conocemos porque se ha registrado su presencia, o por piezas y fragmentos que proceden de hallazgos fortuitos y de saqueo. De tal manera las colecciones de museos y privadas se surtieron de algunos de los objetos más variados que se decía procedían de diversas regiones, los que al compararlos con piezas recobradas arqueológicamente dentro y fuera del territorio guerrerense, nos permiten conocer con cierta seguridad a qué cultura arqueológica y edad corresponden. Ciertos rasgos de la cerámica, figurillas, escultura y arquitectura permiten también establecer contactos con áreas y culturas cercanas o lejanas, rasgos siempre minoritarios respecto a las manifestaciones locales.",
+    "imagenes": [
+      "modulo7/1.png"
+    ],"audio":"1.mp3",
+    "url":"www.google.com",
+    "mostrar":false
+  },
+  {
+    "id":"m7item-2",
+    "titulo": "LA REGIÓN NORTE",
+    "texto": "Sobre la región Norte se cuenta con importantes datos históricos y etnohistóricos que se refieren principalmente al proceso de conquista llevado a cabo por los mexicas; pero la región estuvo poblada muchos siglos antes de estos acontecimientos. En esta región se han llevado a cabo investigaciones arqueológicas a diferente profundidad en asentamientos de gran antigüedad, de época pre-olmeca y olmeca como el de Atopula, cerca de Huitzuco; de varios sitios del Preclásico Superior, como Cuetlajuchitlán; del Posclásico Tardío, como Ixcateopan y Oztuma, y de áreas que abarcan toda la ocupación prehispánica como la comprendida entre Iguala y Acapetlahuaya, la de Buenavista y a lo largo del río Tepecoacuilco. Típicas de esta región son las vasijas o molcajetes trípodes pintados en rojo sobre crema y ciertas figurillas y máscaras de piedra con narices exageradas, que los coleccionistas llamaron de \"estilo chontal\".",
+    "imagenes": [
+      "modulo7/2.png",
+      "modulo7/3.png",
+      "modulo7/4.png",
+      "modulo7/5.png",
+      "modulo7/6.png",
+      "modulo7/7.png"
+    ],"audio":"2.mp3",
+    "url":"www.google.com",
+    "mostrar":false
+  },
+  {
+    "id":"m7item-2-1",
+    "titulo": "IXCATEOPAN",
+    "texto": "Esta zona arqueológica, cuyo nombre en náhuatl significa \"en el templo del algodón\", se encuentra en el municipio de Ixcateopan de Cuauhtémoc. Por las evidencias hasta ahora descubiertas se sabe que fue ocupada en el último periodo prehispánico, lo que permite conocerla no sólo por la arqueología sino también por las referencias escritas. La distribución y forma de sus edificios sugiere que ahí se realizaron ceremonias religiosas, funciones administrativas y de almacenamiento, donde se llevaban a cabo actividades de transformación, de redistribución de productos y de intercambio comercial. La presencia de alfarería local, principalmente en forma de molcajetes trípodes decorados en rojo o marrón sobre crema, o pintados en negro y rojo sobre crema, y su asociación a vasijas que imitan a las llamadas Azteca III, Rojo Texcoco y Cholula Policromo, indican que tuvo una estrecha relación con el centro de México. Según las fuentes escritas se dice que Ixcateopan estuvo habitado por los matlame o matlatzincas, por los coixcas o cohuixcas, que hablaban una variante del náhuatl, o por el grupo chontal, del que muy poco se sabe, y que una vez conquistado por los mexica se convirtió en su aliado para combatir a los tarascos y pasó a formar parte de la provincia tributaria de Tepecoacuilco.",
+    "imagenes": [
+      "modulo7/8.png",
+      "modulo7/9.png",
+      "modulo7/10.png",
+      "modulo7/11.png"
+    ],"audio":"3.mp3",
+    "url":"https://mediateca.inah.gob.mx/islandora_74/islandora/object/articulo:16092",
+    "mostrar":true
+  },
+  {
+    "id":"m7item-3",
+    "titulo": "LA MONTAÑA",
+    "texto": "La Montaña de Guerrero es una de las áreas más ricas en vestigios arqueológicos que abarcan toda la época prehispánica. Se sabe de piezas o fragmentos de figurillas y vasijas de estilo olmeca, de época pre-olmeca, y también de figurillas y cerámica que muestran relaciones con la cuenca de México. Sitios como Huamuxtitlán, Zoyatlán de Juárez, Alacatlatzala y Tenango, son de las pocas zonas arqueológicas conocidas. Es en La Montaña donde se encuentra la famosa gruta de Oxtotitlán con pinturas rupestres de estilo olmeca, y el gran sitio de Zitlala que, por su ubicación, pudo haber servido como una de las fortalezas tarascas.",
+    "imagenes": [
+      "modulo7/12.png",
+      "modulo7/13.png",
+      "modulo7/14.png",
+      "modulo7/15.png"
+    ],"audio":"4.mp3",
+    "url":"https://www.youtube.com/watch?v=HkiOHhPBARw&pp=ygUhIGluYWggdHYgcmVnaW9uIG1vbnRhw7FhIGd1ZXJyZXJv",
+    "mostrar":true
+  },
+  {
+    "id":"m7item-4",
+    "titulo": "TEHUALCALCO",
+    "texto": "Tehuacalco se ubica a escasos 10 km de Tierra Colorada. Esta zona arqueológica fue construida en la cúspide de una montaña que se acondicionó artificialmente. El asentamiento principal se extiende por 12 hectáreas y, aunque su investigación está en proceso, se supone que fue habitada entre el Epiclásico y el Posclásico Temprano. En su arquitectura masiva destaca el estilo peculiar del recubrimiento de sus muros, a base de lápidas lisas y verticales rodeadas por pequeñas lajas horizontales, conocido como \"paramento mixteco\", sistema sumamente útil para minimizar su destrucción cuando tiembla. Unas cuantas lajas están labradas con diversos motivos. Sobre una pequeña elevación natural está el edificio más alto al que se accede por amplios espacios escalonados intercalados con rampas. Al sur se encuentra un gran Juego de Pelota rematado con cabezales en ambos extremos, donde sus paredes están remetidas a manera de porterías. Más al sur se levanta una amplia plataforma donde se ubica el área habitacional, con cuartos que rodean patios hundidos y un sistema de canales de desagüe.",
+    "imagenes": [
+      "modulo7/16.png",
+      "modulo7/17.png",
+      "modulo7/18.png",
+      "modulo7/19.png",
+      "modulo7/20.png",
+      "modulo7/21.png"
+    ],"audio":"5.mp3",
+    "url":"https://www.youtube.com/watch?v=trUUstG9HYI&pp=ygUSdGVodWFjYWxjbyBpbmFoIHR2",
+    "mostrar":true
+  },
+  {
+    "id":"m7item-5",
+    "titulo": "TIERRA CALIENTE",
+    "texto": "Se sabe de pocos sitios prehispánicos en la Tierra Caliente, donde predomina la cultura conocida como Teotihuacán-Guerrero. Muy recientemente se localizó un sitio que viene a llenar parte del vacío en el conocimiento del Clásico guerrerense. En El Puerto de Allende, municipio de Tlalchapa se registraron esculturas, vasijas, figurillas y restos de arquitectura de estilo teotihuacano, que en conjunto pueden representar un \"enclave\" de la poderosa ciudad. Recordemos que la Tierra Caliente, \"la tierra de nadie\", no fue conquistada por los mexicas.",
+    "imagenes": [
+      "modulo7/22.png",
+      "modulo7/23.png",
+      "modulo7/24.png",
+      "modulo7/25.png"
+    ],"audio":"6.mp3",
+    "url":"https://www.youtube.com/watch?v=TrDHOH2l90M&pp=ygUgaW5haCB0diB0aWVycmEgY2FsaWVudGUgZ3VlcnJlcm8%3D",
+    "mostrar":true
+  },
+  {
+    "id":"m7item-5-1",
+    "titulo": "UN HALLAZGO EXTRAORDINARIO",
+    "texto": "¿Sabían que a principios del siglo XX se hizo un hallazgo extraordinario en la Tierra Caliente? A orillas del Arroyo de Vizcaíno, afluente del Río del Oro, se excavó un sepulcro en el que se encontraron restos humanos y numerosos objetos de piedra y concha delimitados con cuatro lápidas, dos de ellas labradas con asombrosos diseños de personajes fantásticos, los que fueron relacionados con estilos sudamericanos. Entre los objetos encontrados sobresalen una cabeza de piedra con restos de mosaico y una ofrenda de 17 figurillas de piedra verde, una de ellas de estilo Mezcala.",
+    "imagenes": [
+      "modulo7/26.png",
+      "modulo7/27.png",
+      "modulo7/28.png",
+      "modulo7/29.png"
+    ],"audio":"7.mp3",
+    "url":"www.google.com",
+    "mostrar":false
+  },
+  {
+    "id":"m7item-6",
+    "titulo": "REGIÓN ACAPULCO",
+    "texto": "En Puerto Marqués se ha documentado la transición del Periodo Arcaico al Preclásico, hace aproximadamente 5000 años, cuando se formaron paulatinamente las primeras aldeas.\nEn ese tiempo, en la Bahía de Acapulco se comenzó a elaborar la alfarería, siendo en Playa Majahua el lugar con la cerámica más temprana de Mesoamérica.\nDesde el Arcaico, se tallaron pozuelos en bloques de piedra en Cerro Tambuco, Revolcadero, La Roqueta y Los Manantiales en Punta Diamante, los cuales se empleaban para moler granos, pero también con implicación ritual.\nMás tarde, se realizaron petrograbados en sitios como Caleta y Caletilla, El Coloso y Puerto Marqués, mostrando cuentas calendáricas, escenas míticas, animales marinos y figuras antropomorfas, entre otros, destacando Palma Sola y La Sabana por la cantidad de motivos grabados.\nExistió una fuerte influencia de la Costa Grande y de culturas como la olmeca y la teotihuacana, y entre el siglo II y IX surgió y alcanzó su apogeo La Sabana, como centro regional que poseía arquitectura monumental.\nAl final de la época prehispánica, Acapulco formó parte del territorio de los yopes.",
+    "imagenes": [
+      "modulo7/1.jpeg",
+      "modulo7/2.jpeg",
+      "modulo7/3.jpeg",
+      "modulo7/4.jpeg",
+      "modulo7/5.jpeg",
+      "modulo7/6.jpeg",
+      "modulo7/7.jpeg",
+      "modulo7/8.jpeg",
+      "modulo7/9.jpeg"
+    ],"audio":"acapulco.mp3",
+    "url":"https://www.youtube.com/watch?v=8POuG0PXXjY&pp=ygUSaW5haCB0diBwYWxtYSBzb2xh",
+    "mostrar":true
+  },
+    {
+    "id":"m7item-6-1",
+    "titulo": "PALMA SOLA",
+    "texto": "Palma Sola se encuentra en la ladera sur del cerro El Veladero en la bahía de Acapulco. Aunque este sitio no fue habitado, sobresale por las esquemáticas figuras grabadas sobre 18 rocas. En ellas se plasmaron motivos con formas humanas, de la fauna marina, de cuentas calendáricas y de la geografía del lugar. La mayoría de las figuras humanas están en actitud estática y no llevan vestimenta ni atuendos, y en numerosas ocasiones están unidas por líneas que se han interpretado como personas emparentadas, relacionadas con algún ancestro o con diferentes grupos sociales. Otras, que parecerían estar en movimiento, sugieren su participación en festividades o ritos, y unas cuantas, con penachos, bastones de mando y otros atributos se conectan con sacerdotes o chamanes. En la roca llamada Elemento 1, protegida por una saliente rocosa y bajo la cual escurre agua, hay una figura con rasgos de jaguar, que simboliza la lluvia y la fertilidad.",
+    "imagenes": [
+      "modulo7/34.png",
+      "modulo7/35.png",
+      "modulo7/36.png",
+      "modulo7/37.png",
+      "modulo7/38.png",
+      "modulo7/39.png"
+    ],"audio":"9.mp3",
+    "url":"https://www.youtube.com/watch?v=lMHalspL6js&pp=ygUSdGVodWFjYWxjbyBpbmFoIHR2",
+    "mostrar":true
+  },
+  {
+    "id":"m7item-7",
+    "titulo": "LA COSTA GRANDE",
+    "texto": "En la Costa Grande se desarrolló una cultura muy distinta a las del interior de Guerrero, pues ahí no hay sitios con arquitectura de piedra, sino que se conforman con montículos levantados con tierra, cantos rodados y conchas sobre los que se colocaron construcciones perecederas; estos montículos se distribuyen alrededor de espacios abiertos a manera de plazas y patios. La cerámica, y sobre todo las figurillas de barro modeladas a mano en diversos y bellos estilos locales son excepcionalmente abundantes y se fechan en el Preclásico y el Clásico cuando, a diferencia del interior, hubo un florecimiento cultural.",
+    "imagenes": [
+      "modulo7/30.png",
+      "modulo7/31.png",
+      "modulo7/32.png",
+      "modulo7/33.png"
+    ],"audio":"8.mp3",
+    "url":"www.google.com",
+    "mostrar":false
+  },
+
+  {
+    "id":"m7item-7-1",
+    "titulo": "COAHUAYUTLA",
+    "texto": "Alejado de la franja costera, en el actual municipio de Coahuayutla, se han hallado piezas extraordinarias que posiblemente formen parte de una cultura distinta a las conocidas en Guerrero. Al norte de este municipio, allá por los años sesenta del siglo pasado, se efectuó un importante salvamento arqueológico cuando se construyó la Presa El Infiernillo en los límites de Guerrero con Michoacán. Entonces se localizaron más de 100 sitios arqueológicos, casi 300 entierros humanos, la mayoría con ofrendas de vasijas, numerosos artefactos de piedra, de metal y de concha, así como poco más de 40 pequeños metates para moler pigmentos, a los que se les llama \"paletas de pintura\".",
+    "imagenes": [
+      "modulo7/40.png",
+      "modulo7/41.png",
+      "modulo7/42.png",
+      "modulo7/43.png"
+    ],"audio":"10.mp3",
+    "url":"www.google.com",
+    "mostrar":false
+  },
+  {
+    "id":"m7item-7-2",
+    "titulo": "“PALETAS DE PINTURA”",
+    "texto": "Los metates para moler pigmentos, a los que se les llama \"paletas de pintura\", fueron tallados en rocas duras, en forma rectangular y circular, con patas o sin ellas. La gran mayoría son lisos, pero otros están bellamente labrados con rasgos de animales como el lagarto, el camaleón, el murciélago y la nutria, o bien con rasgos humanos estilizados. Si el auge de las “paletas de pintura” se dio en el Clásico, cabría preguntarse ¿quiénes serían los consumidores de esos pigmentos? Una cuestión sorprendente es que estos pequeños morteros son muy parecidos a los de la lejana cultura Hohokam del suroeste de los Estados Unidos, con la que también comparten la semejanza de las pulseras de concha.",
+    "imagenes": [
+      "modulo7/44.png",
+      "modulo7/45.png",
+      "modulo7/46.png",
+      "modulo7/47.png"
+    ],"audio":"11.mp3",
+    "url":"www.google.com"
+    ,
+    "mostrar":false
+  },
+  {
+    "id":"m7item-8",
+    "titulo": "REGIÓN COSTA CHICA",
+    "texto": "En la Costa Chica se han recobrado fragmentos de figurillas y vasijas de estilo olmeca que atestiguan su temprana ocupación. Actualmente se están registrando numerosos y extensos sitios de diversa temporalidad. En el sitio de Piedra Labrada, municipio de Ometepec, se han reportado más de 40 estructuras construidas con piedra sobre grandes plataformas, entre ellas cinco Juegos de Pelota y abundantes estelas y esculturas bellamente esculpidas. Aunque su investigación está en proceso, es posible que el sitio Piedra Labrada haya tenido su auge en el Posclásico.",
+    "imagenes": [
+      "modulo7/48.png",
+      "modulo7/49.png",
+      "modulo7/50.png",
+      "modulo7/51.png",
+      "modulo7/52.png",
+      "modulo7/53.png"
+    ],"audio":"12.mp3",
+    "url":"www.google.com"
+    ,
+    "mostrar":false
+  },
+  {
+    "id":"m7item-9",
+    "titulo":"REGIÓN SIERRA",
+    "texto":"Esta región fue habitada desde tiempos olmecas, posee presencia de la Cultura Mezcala y una estrecha relación con regiones vecinas. También tiene particularidades como el desarrollo de la metalurgia y la abundancia de lugares con pintura rupestre y petrograbados, como son los sitios de la sierra de Atoyac, con figuras de más de cuatro metros que poseen temática mitológica y de culto agrícola.\nPor su parte, en el área de El Naranjo, Yextla y Corral de Piedra existió un grupo en el Posclásico Temprano que desarrolló rasgos únicos como la producción de la cerámica \"Yestla-El Naranjo\", y la disposición de ofrendas mortuorias compuestas de vasijas, cuentas de concha, sellos planos y piezas de cobre.\nMientras que, en el área de Tlacotepec, se presentan cajetes con borde rojo.\n\nOtra característica es la importancia de las cuevas, algunas se usaron como espacios funerarios, mientras que en otras se hicieron rituales de fertilidad con ofrendas que incluyen espejos de piedra negra, aros de piedra o concha insertados en estalagmitas, brazaletes de concha con deidades grabadas y vasijas." ,
+    "imagenes":[
+      "modulo7/sierra1.jpeg",
+      "modulo7/sierra2.jpeg",
+      "modulo7/sierra3.jpeg",
+      "modulo7/sierra4.jpeg",
+      "modulo7/sierra5.jpeg",
+      "modulo7/sierra6.jpeg",
+      "modulo7/sierra7.jpeg",
+      "modulo7/sierra8.jpeg"
+    ],
+    "audio":"sierra.mp3",
+    "url":"www.google.com",
+    "mostrar":false
+  }
+]

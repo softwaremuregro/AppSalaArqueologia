@@ -1,0 +1,42 @@
+[
+  {
+    "titulo": "BIENVENIDOS A LA SALA DE ÉPOCA PREHISPÁNICA",
+    "texto": "Las sociedades que habitaron el ahora territorio\nguerrerense en época prehispánica dejaron ricos y variados testimonios\nque permiten conocer gran parte de su desarrollo histórico y cultural.\nEn tiempos anteriores a la conquista española Guerrero fue\nhabitado por poblaciones diversas, muchas desparecidas antes de que\ncualquier cronista pudiera escribir sobre ellas. Ya que no existe esa\nhistoria escrita nos auxiliamos de la arqueología, que no sólo descubre\nedificios en ruinas y objetos antiguos, sino que recaba datos y evidencias\nque permiten conocer y entender el desarrollo de las sociedades a lo\nlargo del tiempo.\nLos periodos mejor conocidos abarcan 3000 años (entre\n1500 a. C. y 1500 d. C.). Cada uno se distingue por su arquitectura,\ncerámica, figurillas, escultura de piedra y muchos materiales más que\natestiguan sus avances tecnológicos, su economía y política, pero\ntambién sus formas de vida, costumbres funerarias, arte y religión.\nA lo largo de esta sala se muestran algunos de los logros\nmás significativos de los antiguos pobladores de Guerrero, tanto en su\nunidad como en su diversidad.",
+    "imagenes": [],
+    "audio":"1.mp3",
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "MESOAMÉRICA Y GUERRERO",
+    "texto": "Mesoamérica es un amplio territorio que abarca parte de\nMéxico y Centroamérica. Sus límites extremos se delimitaron con\nbase en diversos rasgos culturales vigentes en el siglo XVI, que\ntambién la subdividen en varias áreas.\nPara la época prehispánica, hasta hace pocos años se\nincluía a Guerrero en el Occidente de México, pero ahora se le ha\nseparado porque tiene características distintas a esa área y en\ncambio presenta otros rasgos autóctonos que lo distinguen, como los\nde la cultura arqueológica Mezcala.",
+    "imagenes": ["/modulo1/1.png"],
+    "audio":"2.mp3",
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "MEDIO AMBIENTE Y CULTURA",
+    "texto": "Los seres humanos se desarrollan en un ambiente\nnatural determinado. A veces saben aprovecharlo de manera\nracional, permitiendo que el ciclo de vida animal y vegetal continúe\nsu curso, pero otras veces lo sobreexplota eliminando la posibilidad\nde utilizarlo en el futuro.\nGuerrero ha sido sobreexplotado. Los paisajes\nactuales no corresponden a los que tuvo en la antigüedad, cuando\ncontaba con grandes extensiones de bosques, sus ríos eran\ncristalinos y había una rica y variada fauna.\nEn ese ambiente más propicio vivieron los antiguos\npobladores de Guerrero, quienes supieron utilizarlo de manera\ninteligente y lo transformaron para su beneficio pero sin depredarlo.\nEsto les permitió fabricar sus herramientas y utensilios con los\nmateriales más adecuados, observar la relación entre los\nfenómenos naturales y los ciclos agrícolas, crear poblados y\nciudades y dedicarse a cuestiones más complejas, como la política,\nla economía, el arte y la religión.\nGracias al estudio de los restos materiales dejados\npor sus variadas actividades es posible situarlos en momentos\nespecíficos a lo largo de toda la época prehispánica",
+    "imagenes": [],
+    "audio":"3.mp3",
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "GUERRERO: FISIOGRAFÍA, FLORA Y FAUNA",
+    "texto": "Como ustedes bien saben, Guerrero se\ncaracteriza por estar cubierto con cadenas de montañas\ndonde nacen numerosos ríos y arroyos de temporal, los que\ndesembocan en el caudaloso Río de las Balsas y en la costa\ndel Pacífico.\nEl hombre precortesiano aprovechó y\ntransformó con eficiencia el medio natural. Su principal\nmodo de subsistencia fue la agricultura. Ya que las lluvias\neran escasas, desarrolló tecnologías agrícolas apropiadas\npara su entorno inmediato, ya sea creando terrazas en\nlugares escarpados o construyendo sistemas de irrigación\nen las partes planas, lo que aseguraba no sólo la\nregularidad sino la alta productividad de los cultivos.\nPara complementar su dieta recolectó plantas\ny pequeños animales y cazó los de mayor tamaño. También\nusó los recursos minerales, animales y vegetales como\nmaterial de construcción, para fabricar sus herramientas y\nobjetos de barro, como remedio en diversas enfermedades y\npara celebrar sus rituales.\nA partir de la época colonial, pero sobre todo\nen los últimos 100 años, la tala inmoderada y la\ndeforestación han convertido amplias regiones de Guerrero,\nantaño florecientes, en páramos improductivos en los que se\nha extinguido la fauna original.",
+    "imagenes": [
+      "modulo1/2.png",
+      "modulo1/3.png",
+      "modulo1/4.png",
+      "modulo1/5.png"
+    ],
+    "audio":"4.mp3",
+    "url":"www.google.com"
+  },
+  {
+    "titulo": "GUERRERO: FISIOGRAFÍA, FLORA Y FAUNA continuación...",
+    "texto": "En Guerrero se conocen varias\nregiones geográfico-culturales que han cambiado\na lo largo del tiempo. Para el Preclásico o\nFormativo se sabe que prácticamente todo el\nestado participó en la formación y evolución de la\ncultura olmeca. Para épocas posteriores se ha\ndelimitado con bastante exactitud la región y\ncultura Mezcala pero otras, como la mixteca-\ntlapaneca, la yope, la de la alta Sierra Madre del\nSur y de la Costa Chica y Grande aún son poco\nconocidas.",
+    "imagenes": ["modulo1/6.png"],
+    "audio":"5.mp3",
+    "url":"www.google.com"
+  }
+]
