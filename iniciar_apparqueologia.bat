@@ -1,0 +1,1 @@
+start msedge --kiosk "file:///C:/MuseoApp/index.html" --edge-kiosk-type=fullscreen --no-first-run --disable-pinch
