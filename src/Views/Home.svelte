@@ -17,7 +17,7 @@
   let imgs = Array.from({length:6},(_,i)=>"/modulo1/"+(i+1)+".png");
 </script>
 
-<h1>Bienvenido a la Sala de Arqueología</h1>
+<h1>Bienvenido a la Sala de Arqueología PRUEBA</h1>
 <div class="container-fluid my-2">
  
   <div class="row">
